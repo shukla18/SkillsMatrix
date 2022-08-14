@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsMatrix.BusinessLogic", "SkillsMatrix.BusinessLogic\SkillsMatrix.BusinessLogic.csproj", "{FA7B4B44-92DA-4025-9576-AEAB6B1D38A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging", "Logging\Logging.csproj", "{A8CC1486-6C29-46C6-874D-17C9D5B311AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsMatrix.RAPIs", "SkillsMatrix.RAPIs\SkillsMatrix.RAPIs.csproj", "{352A0272-8EDB-4390-868A-704FD98FF594}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FA7B4B44-92DA-4025-9576-AEAB6B1D38A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA7B4B44-92DA-4025-9576-AEAB6B1D38A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA7B4B44-92DA-4025-9576-AEAB6B1D38A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CC1486-6C29-46C6-874D-17C9D5B311AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CC1486-6C29-46C6-874D-17C9D5B311AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CC1486-6C29-46C6-874D-17C9D5B311AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CC1486-6C29-46C6-874D-17C9D5B311AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352A0272-8EDB-4390-868A-704FD98FF594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352A0272-8EDB-4390-868A-704FD98FF594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352A0272-8EDB-4390-868A-704FD98FF594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352A0272-8EDB-4390-868A-704FD98FF594}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
