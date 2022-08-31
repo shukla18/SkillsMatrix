@@ -12,4 +12,8 @@
     <Folder Include="SQLServer\Scripts\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.11.0" />
+  </ItemGroup>
+
 </Project>
